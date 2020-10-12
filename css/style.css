@@ -1,5 +1,5 @@
 body {
-    padding: 20px;
+    padding: 0;
     margin: 0;
     text-align: center;
     background-color: #F9F9F9;
@@ -16,19 +16,41 @@ h1 {
 p {
     padding: 15px 15px;
     margin: 0;
-    color:whitesmoke;
+    color:gray;
     font-family: Arial, Helvetica, sans-serif;
     z-index: 1;
     text-align: left;
 }
 
+span {
+    font-weight: 400;
+    font-size: 1.1rem;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+    max-width: 900px;
+    flex: 1;
+    padding: 20px 0;
+    background-color: teal;
+    color: whitesmoke;
+    justify-content: center;
+    box-shadow: 0px 1px 20px 0px rgba(0, 0, 0, .3);
+}
+
+.header__h2 {
+    font-size: 1.5rem;
+    margin: 0;
+}
 .container_content {
     padding: 0;
     max-width: 900px;
     height: 100vh;
     flex: 1;
     margin: 10px auto;
-    background-color: #0e0e0e;
+    background-color: whitesmoke;
     opacity: .7;
-    border: 5px black solid;
+    border: 1px black solid;
 }
