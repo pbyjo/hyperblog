@@ -5,3 +5,16 @@ Joel tiene 26 años y vive en Bogotá Colombia
 Apasionado por la programación, el desarrollo web y la producción musical.
 Actualmente Estudia en @Platzi y esta viendo el curso profesional de git y github
 
+Estudio Sistemas informaticos y de computo con el ministerio de las TIC de Colombia
+gracias a una beca a la cual aplico, de esta forma se enamoro muchisimo mas y de forma 
+exponencial de la programación y la tecnologia
+
+En la actualidad se encuentra muy interesado con el desarrollo web y todo lo relacionado a CSS.
+Trabaja en una agencia creativa llamada Invictos y su labor principal es desarrollar y editar paginas web.
+De esta forma va aplicando todo lo aprendido.
+
+Su meta es dominar por completo Java script para luego empezar a programar en Python y llegar a estudiar ciencias de datos.
+
+Su hobbie es la producción musical. Tiene un canal de youtube llamado Eter company en alianza con otro productor mas donde 
+Comparten todo su trabajo.
+
