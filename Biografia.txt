@@ -2,4 +2,6 @@ Esta es la historia de Joel
 
 Joel tiene 26 años y vive en Bogotá Colombia
 
-Apasionado por la programacion, el desarrollo web y la produccion musical.
+Apasionado por la programación, el desarrollo web y la producción musical.
+Actualmente Estudia en @Platzi y esta viendo el curso profesional de git y github
+
