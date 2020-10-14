@@ -27,6 +27,19 @@ span {
     font-size: 1.1rem;
 }
 
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    max-width: 900px;
+    flex: 1;
+    margin: 10px auto;
+    background-color: #bde0fe;
+    border: 1px black solid;
+    font-weight: bold;
+    color: black;
+}
+
 .header {
     display: flex;
     flex-direction: row;
