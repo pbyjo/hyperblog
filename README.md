@@ -2,7 +2,8 @@
 
 >Un blog html y css super básico para practicar control de versiones con [git y github](https://platzi.com/clases/git-github/ " git y github") c:
 
-##En este curso vemos de todo
+## En este curso vemos de todo
+
 * Su instalación en diferentes **entornos** (/OS)
 * Comandos de git (**básicos y avanzados**)
 * Crea **repositorios locales** con git y **remotos** con github
