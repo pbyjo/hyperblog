@@ -30,6 +30,7 @@ span {
 footer {
     display: flex;
     justify-content: center;
+    align-self: end;
     padding: 0;
     max-width: 900px;
     flex: 1;
@@ -72,7 +73,7 @@ footer {
 .container_content {
     padding: 0;
     max-width: 900px;
-    height: 100vh;
+    height: auto;
     flex: 1;
     margin: 10px auto;
     background-color: whitesmoke;
